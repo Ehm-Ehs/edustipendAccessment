@@ -1,0 +1,27 @@
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.link-wrapper {
+  padding: 10px 20px;
+}
+
+.nav {
+  display: flex;
+  justify-content: end;
+  background-color: white;
+  padding: 10px;
+  margin: 15px;
+  border: 1px solid black;
+  border-radius: 8px;
+  font-size: 20px;
+}
+.btn1 {
+  padding: 8px;
+  border: 1px solid black;
+  border-radius: 8px;
+  width: 112px;
+  text-align: center;
+  background-color: rgb(194, 122, 29);
+}

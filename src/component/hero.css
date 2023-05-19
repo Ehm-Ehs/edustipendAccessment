@@ -1,0 +1,19 @@
+.hero {
+  padding: 150px 80px;
+}
+h1 {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+p {
+  font-size: 30px;
+}
+.btn2 {
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 8px;
+  width: 265px;
+  text-align: center;
+  background-color: rgb(194, 122, 29);
+  font-size: 35px;
+}
